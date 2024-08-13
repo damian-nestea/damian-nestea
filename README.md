@@ -4,24 +4,26 @@
 
 ## 👋🏻 Um pouco sobre mim!
 
-- 🌎 Sou colombiano e moro no Brasil há 10 anos.
+- 🌎 Sou colombiano e moro no Brasil há mais de 10 anos.
 - 📕 Tenho prazer em aprender novas coisas.
 - 💼 Procuro trabalhar em novos projetos para aumentar a minha experiência.
-- 🎯 Meu objetivo de 2024 é ser um Dev Web FullStack.
+- 🎯 Meu objetivo de 2024 é ser um Desenvolvedor de Software cada vez melhor.
 - 🧩 Fun fact: Gosto de esportes e jogos de tabuleiro.
  
 <hr/>
 
 ## 🤹🏼 Skills
 #### 💪🏼 Tenho mais experiência...
-[![html](https://img.shields.io/badge/html5-★★★-lightgrey?labelColor=E5532D&logo=html5&style=for-the-badge&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![html](https://img.shields.io/badge/html5-★★★-lightgrey?labelColor=E5532D&logo=html5&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![css](https://img.shields.io/badge/css3-★★★-lightgrey?labelColor=0870C2&logo=css3&style=for-the-badge&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![javascript](https://img.shields.io/badge/javascript-★★★-lightgrey?labelColor=F7E025&logo=javascript&style=for-the-badge&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![react](https://img.shields.io/badge/react-★★☆-lightgrey?labelColor=1082A7&logo=react&style=for-the-badge&logoColor=black)](https://react.dev/)
-[![node](https://img.shields.io/badge/node.js-★★☆-lightgrey?labelColor=448A43&logo=node.js&style=for-the-badge&logoColor=black)](https://nodejs.org/en)
+[![node](https://img.shields.io/badge/node.js-★★☆-lightgrey?logo=node.js&style=for-the-badge&logoColor=black)](https://nodejs.org/en)
 
 #### 📖 Estou aprendendo...
 
+[![java](https://img.shields.io/badge/Java-★★☆-lightgrey?labelColor=F37626&logo=openjdk&style=for-the-badge&logoColor=white)](https://nextjs.org/)
+[![csharp](https://img.shields.io/badge/C%23-★★☆-lightgrey?labelColor=239120&logo=c-sharp&style=for-the-badge&logoColor=white)](https://nextjs.org/)
 [![next](https://img.shields.io/badge/next.js-★★☆-lightgrey?labelColor=000000&logo=next.js&style=for-the-badge&logoColor=white)](https://nextjs.org/)
 [![python](https://img.shields.io/badge/python-★★☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=black)](https://www.python.org/)
 [![typescript](https://img.shields.io/badge/typescript-★★☆-lightgrey?labelColor=3178C6&logo=typescript&style=for-the-badge&logoColor=black)](https://www.typescriptlang.org/)
