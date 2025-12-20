@@ -10,6 +10,12 @@ Sou **Jair Damián**, Analista de Dados com experiência em análise exploratór
  
 <hr/>
 
+## 📁 Meus Projetos
+### ☞ Superstore Sales - Projeto de Análise de Dados com Excel 
+Projeto onde realizei uma análise exploratória de dados (EDA) completa para um hipermercado, transformando dados brutos de vendas em insights estratégicos e insights para a equipe comercial. Mais detalhes [aqui](https://github.com/damian-nestea/superstore-sales).
+
+<hr/>
+
 ## 🧠 Skills em Dados
 
 #### 💪🏼 Mais experiência com:
