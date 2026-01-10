@@ -57,4 +57,16 @@ Projeto onde realizei uma análise exploratória de dados (EDA) completa para um
 
 <hr/>
 
-<details> <summary><b>Stats</b></summary>&nbsp; <br/> <img align="left" alt="damian-nestea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=damian-nestea&show_icons=true&hide=stars,issues&hide_border=true&title_color=FFFFFF&icon_color=FFE400&&theme=transparent&text_color=a2a2a2&border_color=e2e2e2" /> <p><br/></p> <img align="left" alt="damian-nestea's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damian-nestea&hide_border=true&title_color=FFFFFF&icon_color=FFE400&&theme=transparent&text_color=a2a2a2&border_color=e2e2e2&layout=donut" /> </details> <br/>
+<details>
+<summary><b>Estatísticas do GitHub</b></summary>
+
+<br/>
+
+<div align="left">
+  
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=damian-nestea&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFE400&icon_color=FFE400&text_color=FFFFFF&hide=stars,issues&include_all_commits=true)
+    
+![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=damian-nestea&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFE400&text_color=FFFFFF&card_width=400)
+
+</div>
+</details>
